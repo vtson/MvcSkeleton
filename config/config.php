@@ -4,9 +4,9 @@ define('DEBUG',true);
 
 define('DEFAULT_MODULE','defaults');
 
-define('DEFAULT_CONTROLLER','DefaultController');
+define('DEFAULT_CONTROLLER','IndexController');
 
-define('DEFAULT_ACTION','helloAction');
+define('DEFAULT_ACTION','IndexAction');
 
 define('DEFAULT_LAYOUT', 'layouts');
 

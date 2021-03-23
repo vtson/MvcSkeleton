@@ -7,4 +7,3 @@
     define('ROOT', dirname(__DIR__));
 
     require_once ROOT . DS . 'cores' . DS . 'Autoload.php';
-    require_once ROOT . DS . 'resources' . DS . 'mainLayout.php';
